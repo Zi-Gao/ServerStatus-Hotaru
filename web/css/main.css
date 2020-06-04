@@ -31,7 +31,6 @@ th {
 .page-section {
 	padding-top: 48px;
 	padding-bottom: 55px;
-	border-bottom: 1px solid #edeff2;
 }
 
 @media (max-width: 991px) {
