@@ -9,4 +9,6 @@
 * BlueVM's project: http://www.lowendtalk.com/discussion/comment/169690#Comment_169690
 
 ## 加速
-码云https://gitee.com/zi_gao/ServerStatus-Web
+码云 https://gitee.com/zi_gao/ServerStatus-Web
+
+GitHub https://github.com/Zi-Gao/ServerStatus-Web
