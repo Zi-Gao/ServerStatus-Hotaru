@@ -7,3 +7,6 @@
 * ServerStatus：https://github.com/BotoX/ServerStatus
 * mojeda's ServerStatus: https://github.com/mojeda/ServerStatus
 * BlueVM's project: http://www.lowendtalk.com/discussion/comment/169690#Comment_169690
+
+## 加速
+码云https://gitee.com/zi_gao/ServerStatus-Web
