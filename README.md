@@ -1,4 +1,4 @@
-# ServerStatus-Hotaru
+# ServerStatus-Web
 这是优化ServerStatus web端的项目
 修改于https://github.com/CokeMine/ServerStatus-Hotaru项目
 
