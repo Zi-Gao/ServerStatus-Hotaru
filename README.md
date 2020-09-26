@@ -1,6 +1,6 @@
 # ServerStatus-Web
-这是优化ServerStatus web端的项目
-修改于https://github.com/CokeMine/ServerStatus-Hotaru项目
+这是优化ServerStatus-Hotaru Web端的项目
+修改于https://github.com/CokeMine/ServerStatus-Hotaru 项目
 
 ## 相关开源项目 ： 
 * ServerStatus-Toyo：https://github.com/ToyoDAdoubiBackup/ServerStatus-Toyo
